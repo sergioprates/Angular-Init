@@ -18,5 +18,7 @@ tsc -w
 Inicializar Projeto Angular
 ng new App1
 
+ng server
+
 https://blog.gbbigardi.io/meu-ambiente-de-desenvolvimento/
 
