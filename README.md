@@ -25,7 +25,9 @@ ng server
 
 Criar novo componente
 
-ng generate [nome do módulo]
+ng generate componente [nome do componente]
+
+ng g c [nome do componente] --spec=false
 
 https://blog.gbbigardi.io/meu-ambiente-de-desenvolvimento/
 
